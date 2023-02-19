@@ -1,0 +1,18 @@
+package day06_unary_operators;
+
+public class incExam2 {
+
+    public static void main(String[] args) {
+
+
+        int age = 20;
+
+        System.out.println( age--);
+        System.out.println(age);
+        System.out.println(++age);
+        System.out.println(--age);
+        --age;
+        System.out.println(--age);
+
+    }
+}
