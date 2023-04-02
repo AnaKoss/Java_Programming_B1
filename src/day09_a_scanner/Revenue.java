@@ -15,7 +15,7 @@ public class Revenue {
         price = input.nextDouble();
         quantity = input.nextInt();
 
-//double revenue = price * quantity;
+        //double revenue = price * quantity;
         //System.out.println(revenue);
         System.out.println(price*quantity);
 
