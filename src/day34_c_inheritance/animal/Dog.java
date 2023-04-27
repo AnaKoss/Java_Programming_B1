@@ -1,4 +1,4 @@
-package day32_c_inheritance.animal;
+package day34_c_inheritance.animal;
 
 public class Dog extends Animal{
 
