@@ -21,7 +21,7 @@ public class Wild {
         lz2.name ="Lizzard 2";
         lz2.numOfClas = 7;
        // lz2.skinColor = "Blue"; //
-/ Here we are limited to use the instance to the Reference Type.
+// Here we are limited to use the instance to the Reference Type.
         // Reference Type does NOT have access to skinColor instance variable.
 
         System.out.println("--------------------");
