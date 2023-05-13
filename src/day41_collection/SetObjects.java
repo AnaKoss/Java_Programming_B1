@@ -51,6 +51,7 @@ public class SetObjects {
                 set4.add(-2);
                 set4.add(0);
                 set4.add(50);
+
                 System.out.println(set4);
     }
 
